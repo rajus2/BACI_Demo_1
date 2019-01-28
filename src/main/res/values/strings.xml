@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BACI Request Portal</string>
+    <string name="action_settings">SIGN OUT</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="completed_request">Completed List</string>
+    <string name="create_request">Create New Request</string>
+    <string name="pending_request">Pending Queue</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="request">requests</string>
+
+    <string name="credit">New Credit Card Request</string>
+    <string name="passbook">New PassBook Request</string>
+    <string name="account">New Account Creation</string>
+
+    <string-array name="label_string">
+        <item>Select one</item>
+        <item>New Credit Card Request</item>
+        <item>New PassBook Request</item>
+        <item>New Account Creation</item>
+    </string-array>
+</resources>
